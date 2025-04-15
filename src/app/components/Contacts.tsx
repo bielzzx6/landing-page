@@ -1,3 +1,5 @@
+// import { FaTwitter, FaGithub, FaLinkedin } from 'react-icons/fa';
+
 const Contact = () => {
   return (
     <section id="contact" className="bg-gray-900 text-white py-10">
@@ -57,7 +59,7 @@ const Contact = () => {
               rel="noopener noreferrer"
               className="text-white hover:text-blue-400 transition"
             >
-               className="text-2xl" /
+              {/* <FaTwitter className="text-2xl" /> */}
             </a>
             <a
               href="https://github.com/seu-usuario"
@@ -65,7 +67,7 @@ const Contact = () => {
               rel="noopener noreferrer"
               className="text-white hover:text-gray-400 transition"
             >
-              className="text-2xl" /
+              {/* <FaGithub className="text-2xl" /> */}
             </a>
             <a
               href="https://linkedin.com/in/seu-usuario"
@@ -73,7 +75,7 @@ const Contact = () => {
               rel="noopener noreferrer"
               className="text-white hover:text-blue-600 transition"
             >
-               className="text-2xl" /
+              {/* <FaLinkedin className="text-2xl" /> */}
             </a>
           </div>
         </div>

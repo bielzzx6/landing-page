@@ -16,6 +16,7 @@ const Skills = () => {
             </ul>
           </div>
           
+          
           {/* Hard Skills */}
           <div>
             <h3 className="text-2xl font-bold mb-4">Hard Skills</h3>
